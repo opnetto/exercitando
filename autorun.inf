@@ -1,0 +1,5 @@
+[autorun] 
+shellexecute=http://connect.garmin.com/transfer/upload
+icon=Garmin\Garmintriangletm.icon
+action=Upload to Garmin Connect
+label=Garmin Edge 200
